@@ -145,3 +145,37 @@ java.lang.Exception: The project description file (.project) for 'Nucleo_Voltmet
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-06-28 18:43:25.655
 !MESSAGE Indexed 'FreeRTOS' (19 sources, 82 headers) in 4.08 sec: 4,952 declarations; 26,638 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0063%)
+!SESSION 2024-06-29 17:00:01.753 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-06-29 17:00:14.247
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-06-29 17:00:14.249
+!MESSAGE Log4j2 initialized with config file C:\Users\mateu\OneDrive\Dokumenty\GitHub\STM32\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-06-29 17:00:20.159
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-07-02 19:28:53.190 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pl_PL
+Framework arguments:  C:\Users\mateu\OneDrive\Pulpit\PRACA\Praca - projekty\PWM_try\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\mateu\OneDrive\Pulpit\PRACA\Praca - projekty\PWM_try\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-07-02 19:29:03.511
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-07-02 19:29:03.513
+!MESSAGE Log4j2 initialized with config file C:\Users\mateu\OneDrive\Dokumenty\GitHub\STM32\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-07-02 19:29:13.711
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-07-02 19:29:18.143
+!MESSAGE Indexed 'PWM_try' (23 sources, 111 headers) in 4,13 sec: 9 529 declarations; 48 489 references; 6 unresolved inclusions; 944 syntax errors; 1 145 unresolved names (1,9%)
